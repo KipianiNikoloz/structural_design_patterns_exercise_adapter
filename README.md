@@ -1,4 +1,3 @@
-
 # Python Adapter Pattern Exercise
 
 ## Context
